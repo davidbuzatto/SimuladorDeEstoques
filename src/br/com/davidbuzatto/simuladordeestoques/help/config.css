@@ -1,0 +1,16 @@
+A:link {color: #66CCFF; text-decoration:bold}
+A:visited {color: #66CCFF; text-decoration:none}
+A:hover {color: #003366; text-decoration: underline; background-color: #66CCFF}
+
+
+BODY 
+{
+scrollbar-face-color:#0099CC;
+scrollbar-highlight-color:#336699;
+scrollbar-3dlight-color:#336699;
+scrollbar-darkshadow-color:#003366;
+scrollbar-shadow-color:#003366;
+scrollbar-arrow-color:#000000;
+scrollbar-track-color:#DDDDDD;
+}
+-->
